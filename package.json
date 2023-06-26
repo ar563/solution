@@ -44,7 +44,7 @@
     }
   ],
   "devDependencies": {
-    "@size-limit/preset-small-lib": "^8.2.4",
+    "@size-limit/preset-small-lib": "^8.2.6",
     "husky": "^8.0.3",
     "prettier": "2.8.8",
     "size-limit": "^8.1.2",
